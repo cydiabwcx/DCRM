@@ -91,7 +91,7 @@ Watch the guide video: [https://youtu.be/dvNCRckm2Cc](https://youtu.be/dvNCRckm2
 
 ```
 # download this project or clone this git repo:
-git clone --depth 1 https://github.com/82Flex/DCRM.git && cd DCRM
+git clone --depth 1 https://github.com/cydiabwcx/DCRM.git && cd DCRM
 ```
 
 2. 构建并启动 DCRM 容器:
